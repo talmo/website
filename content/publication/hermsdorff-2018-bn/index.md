@@ -40,11 +40,11 @@ abstract: Some new tasks are trivial to learn while others are almost impossible
   system works [5, 10, 11], quantifying priors over tasks remains a formidable goal,
   as it is not even clear how to define a task [4]. Here, we focus on tasks that have
   a natural mapping to graphs. We develop a method to quantify humans' priors over
-  these ``task graphs'', combining new modeling approaches with Markov chain Monte
+  these "task graphs", combining new modeling approaches with Markov chain Monte
   Carlo with people, MCMCP (a process whereby an agent learns from data generated
   by another agent, recursively [9]). We show that our method recovers priors more
   accurately than a standard MCMC sampling approach. Additionally, we propose a novel
-  low-dimensional ``smooth'' (In the sense that graphs that differ by fewer edges
+  low-dimensional "smooth" (In the sense that graphs that differ by fewer edges
   are given similar probabilities.) parametrization of probability distributions over
   graphs that allows for more accurate recovery of the prior and better generalization.
   We have also created an online experiment platform that gamifies our MCMCP algorithm
