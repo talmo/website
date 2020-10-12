@@ -52,4 +52,8 @@ abstract: As acquiring bigger data becomes easier in experimental brain science,
   can be applied across modalities and scales and enables collaborations across previously
   siloed communities.
 publication: '*Annu. Rev. Neurosci.*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1146/annurev-neuro-100119-110036
 ---

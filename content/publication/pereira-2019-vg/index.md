@@ -49,4 +49,8 @@ abstract: The need for automated and efficient systems for tracking full animal 
   Finally, we extended the method to more challenging imaging situations and videos
   of freely moving mice.
 publication: '*Nat. Methods*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1038/s41592-018-0234-5
 ---

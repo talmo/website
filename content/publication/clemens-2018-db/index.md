@@ -59,4 +59,8 @@ abstract: "Deciphering how brains generate behavior depends critically on an acc
   \ each song mode. Our results highlight the importance of carefully segmenting behavior\
   \ to map the underlying sensory, neural, and genetic mechanisms."
 publication: '*Curr. Biol.*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1016/j.cub.2018.06.011
 ---

@@ -57,4 +57,8 @@ abstract: Cerebellar granule cells, which constitute half the brain's neurons, s
   movement is widely available at the input stage of the cerebellar cortex, as required
   by forward models of cerebellar control.
 publication: '*Nat. Neurosci.*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1038/nn.4531
 ---

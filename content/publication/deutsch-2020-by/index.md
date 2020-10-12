@@ -69,4 +69,8 @@ abstract: Abstract Sustained changes in mood or action require persistent change
   in behavior with persistent neural activity and recurrent circuit architecture in
   the female brain.
 publication: '*bioRxiv*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1101/2020.02.13.947952
 ---

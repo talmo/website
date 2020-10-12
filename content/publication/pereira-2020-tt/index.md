@@ -62,4 +62,8 @@ abstract: 'The desire to understand how the brain generates and patterns behavio
   tutorials available, in addition to the datasets, at sleap.ai. ### Competing Interest
   Statement The authors have declared no competing interest.'
 publication: '*bioRxiv*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1101/2020.08.31.276246
 ---

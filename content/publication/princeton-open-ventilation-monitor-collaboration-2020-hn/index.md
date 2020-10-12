@@ -77,4 +77,8 @@ abstract: Helmet non-invasive ventilation (NIV) is a form of continuous positive
   volunteer undergoing helmet non-invasive ventilation. Detailed design and manufacturing
   documents are provided.
 publication: '*Intensive Care and Critical Care Medicine*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1101/2020.06.29.20141283
 ---

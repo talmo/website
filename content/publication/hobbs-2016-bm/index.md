@@ -68,4 +68,8 @@ abstract: 'BACKGROUND: Metagenomics enables the analysis of bacterial population
   enable the comparative analysis of regulatory networks across metagenomes, yielding
   novel insights into the evolution of transcriptional regulatory networks.'
 publication: '*Algorithms Mol. Biol.*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1186/s13015-016-0082-8
 ---

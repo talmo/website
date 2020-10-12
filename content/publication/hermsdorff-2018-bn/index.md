@@ -56,4 +56,8 @@ abstract: Some new tasks are trivial to learn while others are almost impossible
   between cover stories within the same domain. Finally, we extend our framework to
   the more general case of quantifying priors over exchangeable random structures.
 publication: '*International Conference on Complex Systems*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1007/978-3-319-96661-8_30
 ---

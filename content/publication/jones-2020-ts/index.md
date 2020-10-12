@@ -56,4 +56,8 @@ abstract: Objective and automatic measurement of pain in mice remains a barrier 
   objectivity in collecting rigorous behavioral data, and it is compatible with other
   neural circuit dissection tools for determining the mouse pain state.
 publication: '*Elife*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.7554/eLife.57258
 ---

@@ -35,4 +35,8 @@ abstract: In this issue of Neuron, Watanabe et al. (2017) uncover how octopamine
   an invertebrate norepinephrine analog, modulates the neural pathways that bias Drosophila
   males toward aggression.
 publication: '*Neuron*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1016/j.neuron.2017.08.029
 ---

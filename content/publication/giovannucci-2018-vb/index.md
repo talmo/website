@@ -58,4 +58,8 @@ abstract: 'BACKGROUND: The preparation consisting of a head-fixed mouse on a sph
   tools for behavioral quantification, which serve as valuable complements to recording
   and stimulation technologies being developed for the head-fixed mouse preparation.'
 publication: '*J. Neurosci. Methods*'
+
+links:
+- name: Journal
+  url: http://dx.doi.org/10.1016/j.jneumeth.2017.07.014
 ---
