@@ -60,4 +60,9 @@ abstract: 'Over the past years, numerous methods have emerged to automate the
               the ultimate goal of resolving the relationship between neural 
               circuits, cognitive processes, and behavior.'
 publication: '*Nature Neuroscience*'
+links:
+- name: Journal
+  url: https://doi.org/10.1038/s41593-020-00734-z
+- name: EPDF
+  url: https://rdcu.be/caH3H
 ---
