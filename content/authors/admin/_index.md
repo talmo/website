@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Neuroscience
     institution: Princeton University
-    year: 2020 (Expected)
+    year: 2021 (Expected)
   - course: MS in Neuroscience
     institution: Princeton University
     year: 2017
@@ -76,3 +76,5 @@ user_groups:
 Hi, I'm Talmo. I'm currently working on my **PhD in Neuroscience** at the [Princeton Neuroscience Institute](https://pni.princeton.edu). I'm co-advised by [Mala Murthy](https://murthylab.princeton.edu) and [Joshua Shaevitz](https://shaevitzlab.princeton.edu).
 
 My research has focused on building computational tools to **quantify animal behavior** with the goal of better understanding the brain.
+
+My work has been featured in [Quanta Magazine](https://www.quantamagazine.org/to-decode-the-brain-scientists-automate-the-study-of-behavior-20191210/), [Nature Lab Animal](https://www.nature.com/articles/s41684-019-0312-z) [Nature Toolbox](https://www.nature.com/articles/d41586-019-02942-5), [The Scientist](https://www.the-scientist.com/notebook/artificially-intelligent-tools-capture-animal-movement-65759), [Princeton Insights](https://insights.princeton.edu/2021/01/model-interacting-animals/), [and](https://www.princeton.edu/news/2018/12/20/translating-language-behavior-artificially-intelligent-motion-capture) [more](https://www.princeton.edu/news/2020/01/08/ai-based-motion-capture-system-animals-has-applications-drug-development-ecology).
