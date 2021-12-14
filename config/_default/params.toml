@@ -88,7 +88,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "talmo@princeton.edu"
+email = "talmo@salk.edu"
 phone = ""
 
 # Address
