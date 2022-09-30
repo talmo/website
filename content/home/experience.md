@@ -19,12 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Salk Fellow and Principal Investigator"
+  company = "Salk Institute for Biological Studies"
+  company_url = "https://salk.edu"
+  location = "La Jolla, CA"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = """
+Running a lab ([talmolab.org](https://talmolab.org)) focused on building deep learning-based tools for motion capture, biological phenotyping, and computational neuroscience.
+  """
+
+
+
   title = "PhD Student"
   company = "Princeton Neuroscience Institute"
   company_url = "https://pni.princeton.edu"
   location = "Princeton, NJ"
   date_start = "2015-06-01"
-  date_end = ""
+  date_end = "2021-10-25"
   description = """
 Using fruit flies (*Drosophila melanogaster*) to study how the brain integrates sensory information to pattern behavioral sequences. Developed hardware and software for acquisition and processing of high resolution video, audio and realtime instrument control. Developed computational methods that leverage computer vision, deep learning, signal processing and unsupervised machine learning for quantifying behavior through few shot pose estimation and manifold embedding. Working on mapping the substrates and function of biological neural circuits involved in patterning the structure of complex motor behaviors.
 
