@@ -68,5 +68,6 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-[Filter or search](./publication/) publications and abstracts.
+<!-- [Filter or search](./publication/) publications and abstracts. -->
+Check out my [lab website](https://talmolab.org/research/) for an updated list of publications.
 {{% /callout %}}

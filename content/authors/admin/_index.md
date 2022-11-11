@@ -79,3 +79,7 @@ Hi, I'm Talmo. I run a lab as a [Salk Fellow](https://www.salk.edu/news-release/
 My work has been featured in [Quanta Magazine](https://www.quantamagazine.org/to-decode-the-brain-scientists-automate-the-study-of-behavior-20191210/), [Nature Lab Animal](https://www.nature.com/articles/s41684-019-0312-z), [Nature Toolbox](https://www.nature.com/articles/d41586-019-02942-5), [The Scientist](https://www.the-scientist.com/notebook/artificially-intelligent-tools-capture-animal-movement-65759), [Princeton Insights](https://insights.princeton.edu/2021/01/model-interacting-animals/), [and](https://www.princeton.edu/news/2018/12/20/translating-language-behavior-artificially-intelligent-motion-capture) [more](https://www.princeton.edu/news/2020/01/08/ai-based-motion-capture-system-animals-has-applications-drug-development-ecology).
 
 I received my **PhD in Neuroscience** at the [Princeton Neuroscience Institute](https://pni.princeton.edu), co-advised by [Mala Murthy](https://murthylab.princeton.edu) and [Joshua Shaevitz](https://shaevitzlab.princeton.edu).
+
+{{% callout note %}}
+Check out my [lab website](https://talmolab.org) for updated information on our work.
+{{% /callout %}}
