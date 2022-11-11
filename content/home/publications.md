@@ -69,5 +69,5 @@ subtitle = ""
 
 {{% callout warning %}}
 <!-- [Filter or search](./publication/) publications and abstracts. -->
-The list of publications below is out-of-date. Please see my [lab website](https://talmolab.org/research/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=tFrElIUAAAAJ) for an updated list of publications.
+The list of publications below is out-of-date. Please see my [lab website](https://talmolab.org/publications/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=tFrElIUAAAAJ) for an updated list of publications.
 {{% /callout %}}
