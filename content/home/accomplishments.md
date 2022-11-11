@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Fred Hutch Cancer Center"
+  organization_url = ""
+  title = "Harold M. Weintraub Graduate Student Award"
+  url = "https://www.fredhutch.org/en/research/divisions/basic-sciences-division/weintraub-graduate-student-award.html"
+  certificate_url = ""
+  date_start = "2022-03-01"
+  date_end = ""
+  description = """
+See [press release](https://www.fredhutch.org/en/news/releases/2022/03/2022-harold-m-weintraub-graduate-student-award.html).
+
+
+[[item]]
   organization = "Princeton University"
   organization_url = ""
   title = "Porter Ogden Jacobus Fellowship"
