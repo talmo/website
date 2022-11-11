@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 See [press release](https://www.fredhutch.org/en/news/releases/2022/03/2022-harold-m-weintraub-graduate-student-award.html).
-
+"""
 
 [[item]]
   organization = "Princeton University"
