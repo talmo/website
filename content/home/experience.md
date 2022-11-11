@@ -30,7 +30,7 @@ Running a lab ([talmolab.org](https://talmolab.org)) focused on building deep le
   """
 
 
-
+[[experience]]
   title = "PhD Student"
   company = "Princeton Neuroscience Institute"
   company_url = "https://pni.princeton.edu"
